@@ -1,0 +1,3 @@
+Description:
+* Characters: 120x180
+* Blocks:  80x80
